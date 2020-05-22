@@ -1,6 +1,7 @@
 # Weather
-Weather app sample in Swift 5 using open weather api
+
+This is the Weather sample application, written in Swift 5 using open weather api.
 
 
- <img src = "GithubImage.png" width = "320" height = "480">
+ <img src = "GithubImage.png" width = "375" height = "680">
 
